@@ -6,7 +6,7 @@ Click into a sticky note, press F8, and the current passwords for the city's bla
 
 If it gets you into a shop you had given up on, please leave a like on the mod's [Thunderstore page](https://thunderstore.io/c/shadows-of-doubt/p/Sm3gm/BlackMarketPasswords/). It keeps me motivated to make more mods. Donations are welcome too:
 
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-sm3gm-FF5E5B?logo=kofi&logoColor=white)](https://ko-fi.com/sm3gm) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-sm3gm-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/sm3gm)
+[![Support me on Ko-fi](https://raw.githubusercontent.com/sm3gm/black-market-passwords/main/images/kofi.png)](https://ko-fi.com/sm3gm) [![Buy me a coffee](https://raw.githubusercontent.com/sm3gm/black-market-passwords/main/images/bmc.png)](https://www.buymeacoffee.com/sm3gm)
 
 ## Why
 
@@ -78,7 +78,7 @@ Likes are greatly appreciated and keep me motivated to release more mods, so if 
 
 And if you love what I do and want to support future projects, or just want to send a friendly thought, you can do so here:
 
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-sm3gm-FF5E5B?logo=kofi&logoColor=white)](https://ko-fi.com/sm3gm) [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-sm3gm-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/sm3gm)
+[![Support me on Ko-fi](https://raw.githubusercontent.com/sm3gm/black-market-passwords/main/images/kofi.png)](https://ko-fi.com/sm3gm) [![Buy me a coffee](https://raw.githubusercontent.com/sm3gm/black-market-passwords/main/images/bmc.png)](https://www.buymeacoffee.com/sm3gm)
 
 Bug reports and ideas help as well. Post them as [GitHub issues](https://github.com/sm3gm/black-market-passwords/issues).
 
